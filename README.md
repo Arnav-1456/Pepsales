@@ -4,7 +4,7 @@ A modern notification management system built with React and TypeScript that han
 
 ## Live Demo
 
-🌐 [View Live Demo](https://github.com/Arnav-1456/Pepsales)
+🌐 [View Live Demo](https://pepsales-sepia.vercel.app/)
 
 ## Features
 
