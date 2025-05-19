@@ -2,6 +2,10 @@
 
 A modern notification management system built with React and TypeScript that handles email, SMS, and in-app notifications with real-time status tracking and analytics.
 
+## Live Demo
+
+🌐 [View Live Demo](https://github.com/Arnav-1456/Pepsales)
+
 ## Features
 
 - 📨 Multi-channel notifications (Email, SMS, In-app)
